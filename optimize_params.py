@@ -206,7 +206,7 @@ def backtest_windows(nmonths, symbol, interv, period):
             oreturn, on1, on2, oatr = get_opt_params(stats)
             outdf = pd.DataFrame({'return': oreturn, 'n1': on1, 'n2': on2, 'atr': oatr, 
                                   'month': str(month), 'interval': str(interv).split("_")[-1], 
-                                  'symbol': symbol, 'period': str(period)})
+                                  'symbol': symbol, 'period': str(period)}, index=[0])
             outdf.to_csv("/home/ubuntu/binance_data/optimized_april26.txt", mode='a', header=False, index=False, sep="\t")
     return True
 
