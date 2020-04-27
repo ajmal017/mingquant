@@ -207,9 +207,8 @@ def backtest_windows(nmonths, symbol, interv, period):
             outdf = pd.DataFrame({'return': oreturn, 'n1': on1, 'n2': on2, 'atr': oatr, 
                                   'month': str(month), 'interval': str(interv).split("_")[-1], 
                                   'symbol': symbol, 'period': str(period)})
-            outdf.to_csv("/Users/mingay/coding/aws_trade/binance_data/optimized_april26.txt", mode='a', header=False, index=False, sep="\t")
+            outdf.to_csv("/home/ubuntu/binance_data/optimized_april26.txt", mode='a', header=False, index=False, sep="\t")
     return True
-
 
 
 symbols = ['ETHBTC', 'BTCUSDT', 'ETHUSDT']
