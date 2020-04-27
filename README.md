@@ -1,9 +1,9 @@
 # mingquant
 quantitative trading codes
 
-## TA-lib is a python quant package with functions for a ton of different technical indicators
+## TA-lib 
 
-http://mrjbq7.github.io/ta-lib/
+> [TA-lib](http://mrjbq7.github.io/ta-lib/) is a python quant package with functions for a ton of different technical indicators
 
 ## Install python binance 
 
