@@ -7,7 +7,7 @@ quantitative trading codes
 
 ## Install backtesting
 
-```pip3 install backtesting```
+```pip install backtesting```
 
 ## Install python binance 
 
