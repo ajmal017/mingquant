@@ -1,4 +1,6 @@
-# mingquant
+# Stonks!
+
+![stonks](https://ih0.redbubble.net/image.903865061.1655/mp,550x550,matte,ffffff,t.u2.jpg)
 
 # To Start Explore stock data sources with Google Colab!!!
 
