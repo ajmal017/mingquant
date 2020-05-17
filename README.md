@@ -1,6 +1,10 @@
 # mingquant
 quantitative trading codes
 
+## Check out different ways of getting information about stocks
+
+[Stock Data Intro Notebook](https://github.com/mmingay2/mingquant/stocks/stock_data_sources.ipynb)
+
 ## See these tutorials from [backtesting.py](https://kernc.github.io/backtesting.py/) before reading the code in this directory
 
 1. [Strategies Library Tutorial](https://kernc.github.io/backtesting.py/doc/examples/Strategies%20Library.html)
@@ -23,3 +27,10 @@ quantitative trading codes
 
 ```pip install pandas==1.0```
 
+## Install pandas data-reader
+
+```pip install pandas-datareader```
+
+## Install yahoo finance for python
+
+```pip install yfinance```
