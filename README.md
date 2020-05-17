@@ -4,7 +4,7 @@
 
 # To Start Explore stock data sources with Google Colab!!!
 
-[Stock Data Intro Notebook](https://colab.research.google.com/github/mmingay2/mingquant/blob/master/stocks/.ipynb_checkpoints/stock_data_sources-checkpoint.ipynb)
+## [Stock Data Intro Notebook](https://colab.research.google.com/github/mmingay2/mingquant/blob/master/stocks/.ipynb_checkpoints/stock_data_sources-checkpoint.ipynb)
 
 ---
 
