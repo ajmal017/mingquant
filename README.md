@@ -1,8 +1,8 @@
 # mingquant
 
-## Explore stock data sources
+## Explore stock data sources with Google Colab!!!
 
-[Stock Data Intro Notebook](https://github.com/mmingay2/mingquant/blob/master/stocks/stock_data_sources.ipynb)
+[Stock Data Intro Notebook](https://colab.research.google.com/github/mmingay2/mingquant/blob/master/stocks/.ipynb_checkpoints/stock_data_sources-checkpoint.ipynb)
 
 ### See these backtesting tutorials from [backtesting.py](https://kernc.github.io/backtesting.py/)
 
