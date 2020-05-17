@@ -2,7 +2,7 @@
 
 ## Explore stock data sources
 
-[Stock Data Intro Notebook](https://github.com/mmingay2/mingquant/stocks/stock_data_sources.ipynb)
+[Stock Data Intro Notebook](https://github.com/mmingay2/mingquant/blob/master/stocks/stock_data_sources.ipynb)
 
 ### See these backtesting tutorials from [backtesting.py](https://kernc.github.io/backtesting.py/)
 
