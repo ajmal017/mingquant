@@ -1,7 +1,7 @@
 # mingquant
 quantitative trading codes
 
-## See these tutorials from [backtesting.py](https://kernc.github.io/backtesting.py/)before reading the code in this directory
+## See these tutorials from [backtesting.py](https://kernc.github.io/backtesting.py/) before reading the code in this directory
 
 1. [Strategies Library Tutorial](https://kernc.github.io/backtesting.py/doc/examples/Strategies%20Library.html)
 2. [Multiple Time Frames Tutorial](https://kernc.github.io/backtesting.py/doc/examples/Multiple%20Time%20Frames.html)
